@@ -84,6 +84,7 @@ var a = 12;
 console.log(typeof(a)) //number
 var b = true;
 console.log(typeof(b)) //boolean
+```
 
 ## If-Else Statement
 Python me if-else condition ko likhne ke liye braces ki jarurat nahi hoti hai jaise,
