@@ -2,7 +2,7 @@
 ## Transpiler
 `Transpiler` keyword do words se milkar bana hai, `Trans` means `Translation` and `Piler` means `Compiler`. Jese, `Babel` ek javascript transpiler hai, jo source-code ko plain and old ES5 javascript me convert karta hai, taki wo kisi bhi browser me chal sake.
 
-## SetTimeout v/s Sleep
+## SetTimeout V/S Sleep
 Agar hum python me sleep() function ka use karte hain to jab tak wo function execute nahi ho jata tab tak python next tasks ko execute nahi karta. Lekin, javascript me agar hum setTimeout() function ka use karte hain to jab tak ye function execute hota hai tab tak js next task execute karta hai.
 #### Python
 ``` python
