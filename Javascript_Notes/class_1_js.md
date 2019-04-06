@@ -1,5 +1,5 @@
 # JavaScript Notes
-## History 
+## History :
 90s main pehla browser aaya tha , uska naam tha NetScape Navigator aur wo browser sirf html Language hi support karta tha aur usme sirf Text , Pictures, Link(Basahilaic HTML) hote the aur kuch nahi hota tha.
 Baadme CSS Language aayi aur jis ke madad se hum page ko sundar dikhapaye par abhi bhi humari websites interactive nnah thi.
 ## JavaScript
